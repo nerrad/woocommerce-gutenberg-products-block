@@ -11,6 +11,7 @@ defined( 'ABSPATH' ) || exit;
 
 /**
  * RestApi class.
+ * @since 5.4.64
  */
 class RestApi {
 
